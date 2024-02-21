@@ -1,7 +1,7 @@
 {
   "name": "github",
   "main": "./lib/index",
-  "version": "0.36.13",
+  "version": "0.36.12",
   "description": "GitHub integration for Atom-ng",
   "repository": "https://github.com/Alex313031/github-ng",
   "license": "MIT",
